@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "João Leripio"
+  description: "Applied Economics · Data Science · Research Engineering"
+
+  navbar:
+    background: white
+    foreground: dark
+    left:
+      - href: index.qmd
+        text: About
+      - href: talks.qmd
+        text: Talks
+      - href: https://rleripio.com/files/joao_leripio_resume.pdf
+        text: CV
+      - href: blog/index.qmd
+        text: Blog
+    right:
+      - icon: github
+        href: https://github.com/leripio
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/rleripio
+        aria-label: LinkedIn
+
+  page-footer:
+    center: "© 2026 João Leripio · Built with [Quarto](https://quarto.org)"
+
+  open-graph:
+    description: "Applied Economics, Data Science & Research Engineering"
+
+format:
+  html:
+    theme: [flatly, styles.scss]
+    toc: false
+    page-layout: article

@@ -1,0 +1,11 @@
+{
+  "listingMap": {
+    "blog\\index.qmd": [
+      "posts"
+    ],
+    "talks.qmd": [
+      "talks/*.yml",
+      "talks-data.yml"
+    ]
+  }
+}

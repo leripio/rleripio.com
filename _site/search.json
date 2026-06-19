@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "talks.html",
+    "href": "talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Conference presentations, lectures, and panel discussions.\n\n\n\n\n2026 EN\n\n\nNowcasting when predictors keep changing\n\n\n46th Intl. Symposium on Forecasting\n\n\n Montreal/CA\n\n\n\n\n\n\n\n2025 EN\n\n\nData Science in the Financial Sector\n\n\nFGV/EAESP\n\n\n São Paulo/SP\n\n\nSlides ↗\n\n\n\n\n2024 PT-BR\n\n\nData Science no Mercado Financeiro\n\n\nUFFinance - Liga de Mercado Financeiro da UFF\n\n\n Remote\n\n\nSlides ↗ Vídeo ↗\n\n\n\n\n2024 PT-BR\n\n\nCiência de dados no mercado financeiro\n\n\nCOPPEAD/UFRJ\n\n\n Rio de Janeiro/BR\n\n\nSlides ↗\n\n\n\n\n2023 PT-BR\n\n\nO Impacto da Inteligência Artificial na vida do novo Economista\n\n\nSemana do CCSA - Universidade Presbiteriana Mackenzie\n\n\n São Paulo/BR\n\n\nSlides ↗\n\n\n\n\n2023 EN\n\n\nNowcasting Inflation in Brazil Using Web Data\n\n\n43rd Intl. Symposium on Forecasting\n\n\n Charlottesville/US\n\n\nSlides ↗\n\n\n\n\n2020 EN\n\n\nReal-time Forecasting COVID-19 cases applied to US regions\n\n\n40th Intl. Symposium on Forecasting\n\n\n Remote\n\n\n\n\n\n\n\n2018 EN\n\n\nWhat does make life better? Determinants of subjective wellbeing: evidences from the wellbeing survey in Brazil\n\n\n34th CIRET Conference\n\n\n Rio de Janeiro/BR\n\n\n\n\n\n\n\n2018 EN\n\n\nBusiness cycle and labor supply: evidences from Brazil's capital city\n\n\n34th CIRET Conference\n\n\n Rio de Janeiro/BR\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "2020 – Present · São Paulo, Brazil\nLead a quantitative research team building macroeconomic forecasting systems and data pipelines. Core work includes inflation nowcasting, credit risk modeling, and designing reproducible research infrastructure for a macro hedge fund."
+  },
+  {
+    "objectID": "cv.html#experience",
+    "href": "cv.html#experience",
+    "title": "CV",
+    "section": "",
+    "text": "2020 – Present · São Paulo, Brazil\nLead a quantitative research team building macroeconomic forecasting systems and data pipelines. Core work includes inflation nowcasting, credit risk modeling, and designing reproducible research infrastructure for a macro hedge fund."
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "CV",
+    "section": "Education",
+    "text": "Education"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "CV",
+    "section": "Publications",
+    "text": "Publications\n\nAnálise Econômica com R\nbook.rleripio.com\nA practical guide to applied economic research with R — covering data visualization, econometrics, and reproducible workflows."
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "CV",
+    "section": "Skills",
+    "text": "Skills\nLanguages: R · Python · SQL Econometrics: Time series · VAR · Bayesian estimation Machine Learning: Gradient boosting · Ensemble methods · Deep learning Tools: Quarto · Git · Docker"
+  },
+  {
+    "objectID": "cv.html#talks",
+    "href": "cv.html#talks",
+    "title": "CV",
+    "section": "Talks",
+    "text": "Talks\nNine conference presentations from 2018 to 2025 on data science, macroeconomics, and forecasting. See the full list →."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "João Leripio.",
+    "section": "",
+    "text": "João Leripio.\nApplied Economics, Data Science and Research Engineering\n\n GitHub\n LinkedIn\n Book\n\n\n\n\n\nI lead the Data Science and Modeling team at Kapitalo, a macro hedge fund in Brazil.\nMy work spans the entire research lifecycle, from data collection and modeling to dashboards and analytical tools.\nI'm also the author of R for Economic Research."
+  }
+]

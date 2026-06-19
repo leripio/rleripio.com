@@ -1,0 +1,252 @@
+/*-- scss:defaults --*/
+$primary:                  #059669;
+$link-color:               #059669;
+$body-color:               #0f172a;
+$font-family-sans-serif:   'Plus Jakarta Sans', system-ui, sans-serif;
+$headings-font-family:     'Space Grotesk', system-ui, sans-serif;
+$headings-font-weight:     700;
+$headings-color:           #0f172a;
+$navbar-light-color:       #64748b;
+$navbar-light-hover-color: #059669;
+$navbar-light-active-color:#059669;
+$navbar-light-brand-color: #0f172a;
+$border-color:             #e2e8f0;
+
+/*-- scss:rules --*/
+
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Plus+Jakarta+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,400&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/flag-icons@7.2.3/css/flag-icons.min.css');
+
+/* ─── Base ─── */
+body {
+  font-size: 16.5px;
+  line-height: 1.75;
+  background: #fff;
+}
+
+h1, h2, h3 { letter-spacing: -0.03em; }
+h2 { font-size: 1.35rem; margin-top: 2.5rem; }
+h3 { font-size: 1.1rem; margin-top: 2rem; }
+hr { border-color: #f1f5f9; margin: 2.5rem 0; }
+
+/* ─── Navbar ─── */
+.navbar {
+  border-bottom: 1px solid #e2e8f0 !important;
+  padding: 0.85rem 1rem !important;
+}
+
+.navbar-brand {
+  font-size: 1rem !important;
+  letter-spacing: -0.04em !important;
+  font-weight: 700 !important;
+}
+
+.navbar-nav .nav-link {
+  font-size: 0.875rem !important;
+  font-weight: 500 !important;
+  padding: 0.25rem 0.7rem !important;
+  transition: color 0.15s;
+}
+
+/* ─── Homepage hero ─── */
+.home .quarto-title-block { display: none; }
+
+.hero-section {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 5rem 2rem 3.5rem;
+}
+
+.hero-name {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: clamp(2.4rem, 5.5vw, 4rem);
+  font-weight: 700;
+  letter-spacing: -0.05em;
+  line-height: 0.9;
+  color: #0f172a;
+  margin: 0 0 1.75rem;
+}
+
+.accent-dot { color: #059669; }
+
+.hero-role {
+  font-size: 1.05rem;
+  color: #64748b;
+  font-weight: 400;
+  margin: 0 0 1rem;
+}
+
+.hero-cta {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.cta-link {
+  font-size: 0.875rem !important;
+  font-weight: 500 !important;
+  color: #334155 !important;
+  border: 1.5px solid #e2e8f0 !important;
+  border-radius: 100px !important;
+  padding: 0.45rem 1.25rem !important;
+  text-decoration: none !important;
+  transition: border-color 0.15s, color 0.15s !important;
+  display: inline-flex !important;
+  align-items: center !important;
+  gap: 0.4rem !important;
+}
+
+.cta-link:hover {
+  border-color: #059669 !important;
+  color: #059669 !important;
+  text-decoration: none !important;
+}
+
+.about-section {
+  border-top: 1px solid #e2e8f0;
+  padding: 3rem 2rem 5rem;
+}
+
+.about-inner {
+  max-width: 660px;
+  margin: 0 auto;
+  font-size: 1.05rem;
+  line-height: 1.85;
+  color: #334155;
+}
+
+.about-inner p { margin-bottom: 1.25rem; }
+.about-inner a { font-weight: 500; }
+
+/* ─── Talks: card grid ─── */
+.talks-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(265px, 1fr));
+  gap: 1.1rem;
+  margin-top: 1.5rem;
+}
+
+.talk-card {
+  background: #fff;
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  padding: 1.35rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.talk-card:hover {
+  border-color: #059669;
+  box-shadow: 0 4px 20px rgba(5, 150, 105, 0.08);
+}
+
+.talk-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.talk-year {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: #059669;
+  letter-spacing: 0.04em;
+}
+
+.talk-lang {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.15rem 0.55rem;
+  background: #f8fafc;
+  border: 1px solid #e2e8f0;
+  border-radius: 100px;
+  color: #64748b;
+  letter-spacing: 0.02em;
+  line-height: 1.4;
+}
+
+.talk-lang .fi {
+  font-size: 0.95rem;
+  border-radius: 2px;
+}
+
+.talk-title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: #0f172a;
+}
+
+.talk-event {
+  font-size: 0.82rem;
+  color: #94a3b8;
+  font-weight: 500;
+}
+
+.talk-location {
+  font-size: 0.78rem;
+  color: #b0bec5;
+  font-weight: 400;
+}
+
+.talk-links {
+  display: flex;
+  gap: 0.4rem;
+  flex-wrap: wrap;
+  padding-top: 0.6rem;
+  border-top: 1px solid #f8fafc;
+  margin-top: auto;
+}
+
+.talk-link {
+  font-size: 0.76rem !important;
+  font-weight: 600 !important;
+  color: #64748b !important;
+  border: 1px solid #e2e8f0 !important;
+  border-radius: 6px !important;
+  padding: 0.18rem 0.6rem !important;
+  text-decoration: none !important;
+  transition: border-color 0.15s, color 0.15s !important;
+  letter-spacing: 0.02em;
+}
+
+.talk-link:hover {
+  border-color: #059669 !important;
+  color: #059669 !important;
+}
+
+/* ─── CV ─── */
+.cv-date {
+  font-size: 0.83rem;
+  font-weight: 600;
+  color: #94a3b8;
+}
+
+/* ─── Blog ─── */
+.quarto-post .thumbnail img { border-radius: 8px; }
+.quarto-post h3 a { color: #0f172a !important; }
+.quarto-post h3 a:hover { color: #059669 !important; text-decoration: none !important; }
+
+/* ─── Footer ─── */
+.nav-footer {
+  border-top: 1px solid #e2e8f0 !important;
+  font-size: 0.85rem;
+  color: #94a3b8;
+}
+
+.nav-footer a { color: #94a3b8 !important; }
+.nav-footer a:hover { color: #059669 !important; }
+
+/* ─── Responsive ─── */
+@media (max-width: 640px) {
+  .hero-section { padding: 3rem 1.5rem 2.5rem; }
+  .about-section { padding: 2rem 1.5rem 3.5rem; }
+  .cta-link { width: auto; }
+}
