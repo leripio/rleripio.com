@@ -16,8 +16,6 @@ website:
         text: Talks
       - href: cv.qmd
         text: CV
-      - href: blog/index.qmd
-        text: Blog
     right:
       - icon: github
         href: https://github.com/leripio
