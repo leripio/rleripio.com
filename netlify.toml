@@ -1,6 +1,3 @@
 [build]
-  command = "quarto render"
+  command = "echo \"No build required\""
   publish = "_site"
-
-[[plugins]]
-  package = "@quarto/netlify-plugin-quarto"
