@@ -14,7 +14,7 @@ website:
         text: About
       - href: talks.qmd
         text: Talks
-      - href: https://rleripio.com/files/joao_leripio_resume.pdf
+      - href: cv.qmd
         text: CV
       - href: blog/index.qmd
         text: Blog
@@ -27,10 +27,10 @@ website:
         aria-label: LinkedIn
 
   page-footer:
-    center: "© 2026 João Leripio · Built with [Quarto](https://quarto.org)"
+    center: "© 2026 João R. Leripio · Built with [Quarto](https://quarto.org)"
 
   open-graph:
-    description: "Applied Economics, Data Science & Research Engineering"
+    description: "Data, Modeling & Research Engineering"
 
 format:
   html:

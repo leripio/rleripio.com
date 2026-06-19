@@ -5,8 +5,8 @@ body-classes: home
 
 ```{=html}
 <section class="hero-section">
-<h1 class="hero-name">João Leripio<span class="accent-dot">.</span></h1>
-<p class="hero-role">Applied Economics, Data Science and Research Engineering</p>
+<h1 class="hero-name">João R. Leripio</h1>
+<p class="hero-role">Data, Modeling & Research Engineering</p>
 <div class="hero-cta">
 <a href="https://github.com/leripio" class="cta-link"><i class="bi bi-github"></i> GitHub</a>
 <a href="https://linkedin.com/in/rleripio" class="cta-link"><i class="bi bi-linkedin"></i> LinkedIn</a>

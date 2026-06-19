@@ -9,9 +9,9 @@
   {
     "objectID": "cv.html",
     "href": "cv.html",
-    "title": "CV",
+    "title": "João Renato Leripio",
     "section": "",
-    "text": "2020 – Present · São Paulo, Brazil\nLead a quantitative research team building macroeconomic forecasting systems and data pipelines. Core work includes inflation nowcasting, credit risk modeling, and designing reproducible research infrastructure for a macro hedge fund."
+    "text": "Data, Modeling & Research Engineering\n\n\n +55 (21) 97956-9090\n leripiorenato@gmail.com\nleripiorenato\n leripio\n rleripio.com\n\n\n\n\nQuantitative researcher specializing in statistical modeling, forecasting, data products, and research engineering.\nExperienced in building end-to-end analytical workflows that transform raw data into models, analytical tools, and production-ready research outputs.\n\n\n\n\n\n\n\nSenior Economic Analyst - Data Science & Modeling Lead\n\n\nSão Paulo, Brazil · 2022 - Present\n\n\n\nLead the Data Science and Modeling team within the Macroeconomic Research department, providing technical leadership and advancing the use of modern data and analytical technologies across research workflows.\nDevelop quantitative models and forecasting systems for macroeconomic analysis.\nBuild and maintain production analytical infrastructure, including data pipelines, automated reporting, and internal research applications.\n\n\n\n\n\n\nQuantitative Research Analyst\n\n\nSão Paulo, Brazil · 2019 - 2022\n\n\n\nDeveloped quantitative models and forecasting tools for macroeconomic and financial analysis.\nIntegrated alternative datasets into investment research workflows.\n\n\n\n\n\n\nEconomic Research Analyst\n\n\nBrasília, Brazil · 2017 - 2019\n\n\n\nConducted regional economic analysis and monitoring of economic activity indicators.\nProduced reports and studies supporting public policy discussions and decision-making.\nDeveloped statistical indicators and analytical tools for economic assessment.\n\n\n\n\n\nM.S. in Economics, Universidade Federal Fluminense · 2017\nB.S. in Economics, Universidade Federal Fluminense · 2013\n\n\n\nAuthor of R for Economic Research, a practical guide to data analysis, statistical modeling, and forecasting for applied research.\n\n\n\n\nNowcasting when predictors keep changing. Leveraging cross-sectional information in high-dimensional, high-turnover data - International Symposium on Forecasting · Montreal · 2026\nNowcasting Inflation in Brazil Using Web Data - International Symposium on Forecasting · Charlottesville · 2023\nReal-time Forecasting COVID-19 Cases Applied to US Regions - International Symposium on Forecasting · Remote · 2020"
   },
   {
     "objectID": "cv.html#experience",
@@ -23,16 +23,16 @@
   {
     "objectID": "cv.html#education",
     "href": "cv.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education"
+    "title": "João Renato Leripio",
+    "section": "",
+    "text": "M.S. in Economics, Universidade Federal Fluminense · 2017\nB.S. in Economics, Universidade Federal Fluminense · 2013"
   },
   {
     "objectID": "cv.html#publications",
     "href": "cv.html#publications",
-    "title": "CV",
-    "section": "Publications",
-    "text": "Publications\n\nAnálise Econômica com R\nbook.rleripio.com\nA practical guide to applied economic research with R — covering data visualization, econometrics, and reproducible workflows."
+    "title": "João Renato Leripio",
+    "section": "",
+    "text": "Author of R for Economic Research, a practical guide to data analysis, statistical modeling, and forecasting for applied research."
   },
   {
     "objectID": "cv.html#skills",
@@ -58,8 +58,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "João Leripio.",
+    "title": "João R. Leripio",
     "section": "",
-    "text": "João Leripio.\nApplied Economics, Data Science and Research Engineering\n\n GitHub\n LinkedIn\n Book\n\n\n\n\n\n\n\nI lead the Data Science and Modeling team at Kapitalo, a macro hedge fund in Brazil.\nMy work spans the entire research lifecycle, from data collection and modeling to dashboards and analytical tools.\nI'm also the author of R for Economic Research."
+    "text": "João R. Leripio\nData, Modeling & Research Engineering\n\n GitHub\n LinkedIn\n Book\n\n\n\n\n\n\n\nI lead the Data Science and Modeling team at Kapitalo, a macro hedge fund in Brazil.\nMy work spans the entire research lifecycle, from data collection and modeling to dashboards and analytical tools.\nI'm also the author of R for Economic Research."
+  },
+  {
+    "objectID": "resume/resume.html",
+    "href": "resume/resume.html",
+    "title": "João Renato Leripio",
+    "section": "",
+    "text": "Data, Modeling & Research Engineering\n\n\n +55 (21) 97956-9090\n leripiorenato@gmail.com\nleripiorenato\n leripio\n rleripio.com\n\n\n\n\nQuantitative researcher specializing in statistical modeling, forecasting, data products, and research engineering.\nExperienced in building end-to-end analytical workflows that transform raw data into models, analytical tools, and production-ready research outputs.\n\n\n\n\n\n\n\nSenior Economic Analyst - Data Science & Modeling Lead\n\n\nSão Paulo, Brazil · 2022 - Present\n\n\n\nLead the Data Science and Modeling team within the Macroeconomic Research department, providing technical leadership and advancing the use of modern data and analytical technologies across research workflows.\nDevelop quantitative models and forecasting systems for macroeconomic analysis.\nBuild and maintain production analytical infrastructure, including data pipelines, automated reporting, and internal research applications.\n\n\n\n\n\n\nQuantitative Research Analyst\n\n\nSão Paulo, Brazil · 2019 - 2022\n\n\n\nDeveloped quantitative models and forecasting tools for macroeconomic and financial analysis.\nIntegrated alternative datasets into investment research workflows.\n\n\n\n\n\n\nEconomic Research Analyst\n\n\nBrasília, Brazil · 2017 - 2019\n\n\n\nConducted regional economic analysis and monitoring of economic activity indicators.\nProduced reports and studies supporting public policy discussions and decision-making.\nDeveloped statistical indicators and analytical tools for economic assessment.\n\n\n\n\n\nM.S. in Economics, Universidade Federal Fluminense · 2017\nB.S. in Economics, Universidade Federal Fluminense · 2013\n\n\n\nAuthor of R for Economic Research, a practical guide to data analysis, statistical modeling, and forecasting for applied research.\n\n\n\n\nNowcasting when predictors keep changing. Leveraging cross-sectional information in high-dimensional, high-turnover data - International Symposium on Forecasting · Montreal · 2026\nNowcasting Inflation in Brazil Using Web Data - International Symposium on Forecasting · Charlottesville · 2023\nReal-time Forecasting COVID-19 Cases Applied to US Regions - International Symposium on Forecasting · Remote · 2020"
+  },
+  {
+    "objectID": "resume/resume.html#profile",
+    "href": "resume/resume.html#profile",
+    "title": "João Renato Leripio",
+    "section": "",
+    "text": "Quantitative researcher specializing in statistical modeling, forecasting, data products, and research engineering.\nExperienced in building end-to-end analytical workflows that transform raw data into models, analytical tools, and production-ready research outputs."
+  },
+  {
+    "objectID": "resume/resume.html#professional-experience",
+    "href": "resume/resume.html#professional-experience",
+    "title": "João Renato Leripio",
+    "section": "",
+    "text": "Senior Economic Analyst - Data Science & Modeling Lead\n\n\nSão Paulo, Brazil · 2022 - Present\n\n\n\nLead the Data Science and Modeling team within the Macroeconomic Research department, providing technical leadership and advancing the use of modern data and analytical technologies across research workflows.\nDevelop quantitative models and forecasting systems for macroeconomic analysis.\nBuild and maintain production analytical infrastructure, including data pipelines, automated reporting, and internal research applications.\n\n\n\n\n\n\nQuantitative Research Analyst\n\n\nSão Paulo, Brazil · 2019 - 2022\n\n\n\nDeveloped quantitative models and forecasting tools for macroeconomic and financial analysis.\nIntegrated alternative datasets into investment research workflows.\n\n\n\n\n\n\nEconomic Research Analyst\n\n\nBrasília, Brazil · 2017 - 2019\n\n\n\nConducted regional economic analysis and monitoring of economic activity indicators.\nProduced reports and studies supporting public policy discussions and decision-making.\nDeveloped statistical indicators and analytical tools for economic assessment."
+  },
+  {
+    "objectID": "resume/resume.html#education",
+    "href": "resume/resume.html#education",
+    "title": "João Renato Leripio",
+    "section": "",
+    "text": "M.S. in Economics, Universidade Federal Fluminense · 2017\nB.S. in Economics, Universidade Federal Fluminense · 2013"
+  },
+  {
+    "objectID": "resume/resume.html#publications",
+    "href": "resume/resume.html#publications",
+    "title": "João Renato Leripio",
+    "section": "",
+    "text": "Author of R for Economic Research, a practical guide to data analysis, statistical modeling, and forecasting for applied research."
+  },
+  {
+    "objectID": "resume/resume.html#selected-presentations",
+    "href": "resume/resume.html#selected-presentations",
+    "title": "João Renato Leripio",
+    "section": "",
+    "text": "Nowcasting when predictors keep changing. Leveraging cross-sectional information in high-dimensional, high-turnover data - International Symposium on Forecasting · Montreal · 2026\nNowcasting Inflation in Brazil Using Web Data - International Symposium on Forecasting · Charlottesville · 2023\nReal-time Forecasting COVID-19 Cases Applied to US Regions - International Symposium on Forecasting · Remote · 2020"
+  },
+  {
+    "objectID": "cv.html#profile",
+    "href": "cv.html#profile",
+    "title": "João Renato Leripio",
+    "section": "",
+    "text": "Quantitative researcher specializing in statistical modeling, forecasting, data products, and research engineering.\nExperienced in building end-to-end analytical workflows that transform raw data into models, analytical tools, and production-ready research outputs."
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "João Renato Leripio",
+    "section": "",
+    "text": "Senior Economic Analyst - Data Science & Modeling Lead\n\n\nSão Paulo, Brazil · 2022 - Present\n\n\n\nLead the Data Science and Modeling team within the Macroeconomic Research department, providing technical leadership and advancing the use of modern data and analytical technologies across research workflows.\nDevelop quantitative models and forecasting systems for macroeconomic analysis.\nBuild and maintain production analytical infrastructure, including data pipelines, automated reporting, and internal research applications.\n\n\n\n\n\n\nQuantitative Research Analyst\n\n\nSão Paulo, Brazil · 2019 - 2022\n\n\n\nDeveloped quantitative models and forecasting tools for macroeconomic and financial analysis.\nIntegrated alternative datasets into investment research workflows.\n\n\n\n\n\n\nEconomic Research Analyst\n\n\nBrasília, Brazil · 2017 - 2019\n\n\n\nConducted regional economic analysis and monitoring of economic activity indicators.\nProduced reports and studies supporting public policy discussions and decision-making.\nDeveloped statistical indicators and analytical tools for economic assessment."
+  },
+  {
+    "objectID": "cv.html#selected-presentations",
+    "href": "cv.html#selected-presentations",
+    "title": "João Renato Leripio",
+    "section": "",
+    "text": "Nowcasting when predictors keep changing. Leveraging cross-sectional information in high-dimensional, high-turnover data - International Symposium on Forecasting · Montreal · 2026\nNowcasting Inflation in Brazil Using Web Data - International Symposium on Forecasting · Charlottesville · 2023\nReal-time Forecasting COVID-19 Cases Applied to US Regions - International Symposium on Forecasting · Remote · 2020"
   }
 ]

@@ -1,0 +1,117 @@
+---
+title: ""
+format:
+  html:
+    css: cv_styles.css
+    toc: true
+    toc-depth: 2
+    page-layout: full
+    include-in-header:
+      text: |
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+execute:
+  echo: false
+---
+
+::: {.cv}
+
+::: {.header}
+
+# João Renato Leripio
+
+::: {.subtitle}
+Data, Modeling & Research Engineering
+:::
+
+::: {.contact}
+<span><i class="fa-solid fa-mobile-screen"></i> +55 (21) 97956-9090</span>
+
+<span><i class="fa-solid fa-envelope"></i> [leripiorenato@gmail.com](mailto:leripiorenato@gmail.com)</span>
+
+<span><i class="fa-brands fa-linkedin"></i>[leripiorenato](https://www.linkedin.com/in/leripiorenato/)</span>
+
+<span><i class="fa-brands fa-github"></i> [leripio](https://github.com/leripio)</span>
+
+<span><i class="fa-solid fa-globe"></i> [rleripio.com](https://www.rleripio.com)</span>
+:::
+
+:::
+
+## Profile
+
+Quantitative researcher specializing in statistical modeling, forecasting, data products, and research engineering.
+
+Experienced in building end-to-end analytical workflows that transform raw data into models, analytical tools, and production-ready research outputs.
+
+## Professional Experience
+
+::: {.entry}
+::: {.entry-header}
+::: {.entry-title}
+### Kapitalo Investimentos
+
+**Senior Economic Analyst - Data Science & Modeling Lead**
+:::
+
+::: {.meta}
+São Paulo, Brazil · 2022 - Present
+:::
+:::
+- Lead the Data Science and Modeling team within the Macroeconomic Research department, providing technical leadership and advancing the use of modern data and analytical technologies across research workflows.
+- Develop quantitative models and forecasting systems for macroeconomic analysis.
+- Build and maintain production analytical infrastructure, including data pipelines, automated reporting, and internal research applications.
+
+:::
+
+::: {.entry}
+::: {.entry-header}
+::: {.entry-title}
+### Itaú Asset Management
+
+**Quantitative Research Analyst**
+:::
+
+::: {.meta}
+São Paulo, Brazil · 2019 - 2022
+:::
+:::
+
+- Developed quantitative models and forecasting tools for macroeconomic and financial analysis.
+- Integrated alternative datasets into investment research workflows.
+:::
+
+::: {.entry}
+::: {.entry-header}
+::: {.entry-title}
+### IPEDF
+
+**Economic Research Analyst**
+:::
+
+::: {.meta}
+Brasília, Brazil · 2017 - 2019
+:::
+:::
+
+- Conducted regional economic analysis and monitoring of economic activity indicators.
+- Produced reports and studies supporting public policy discussions and decision-making.
+- Developed statistical indicators and analytical tools for economic assessment.
+:::
+
+## Education
+
+**M.S. in Economics**, Universidade Federal Fluminense · 2017  
+**B.S. in Economics**, Universidade Federal Fluminense · 2013
+
+## Publications
+
+Author of [*R for Economic Research*](http://book.rleripio.com), a practical guide to data analysis, statistical modeling, and forecasting for applied research.
+
+## Selected Presentations
+
+- **Nowcasting when predictors keep changing. Leveraging cross-sectional information in high-dimensional, high-turnover data** - International Symposium on Forecasting · Montreal · 2026
+
+- **Nowcasting Inflation in Brazil Using Web Data** - International Symposium on Forecasting · Charlottesville · 2023
+
+- **Real-time Forecasting COVID-19 Cases Applied to US Regions** - International Symposium on Forecasting · Remote · 2020
+:::

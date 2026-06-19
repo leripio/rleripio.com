@@ -16,5 +16,8 @@
   },
   "talks.qmd": {
     "talks.html": "f75e1a3f"
+  },
+  "resume/resume.qmd": {
+    "resume.html": "50c3bf60"
   }
 }
