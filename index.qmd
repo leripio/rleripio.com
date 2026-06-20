@@ -9,7 +9,7 @@ body-classes: home
 <p class="hero-role">Data, Modeling & Research Engineering</p>
 <div class="hero-cta">
 <a href="https://github.com/leripio" class="cta-link"><i class="bi bi-github"></i> GitHub</a>
-<a href="https://linkedin.com/in/rleripio" class="cta-link"><i class="bi bi-linkedin"></i> LinkedIn</a>
+<a href="https://linkedin.com/in/leripio" class="cta-link"><i class="bi bi-linkedin"></i> LinkedIn</a>
 </div>
 </section>
 
