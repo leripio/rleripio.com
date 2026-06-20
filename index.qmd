@@ -10,7 +10,6 @@ body-classes: home
 <div class="hero-cta">
 <a href="https://github.com/leripio" class="cta-link"><i class="bi bi-github"></i> GitHub</a>
 <a href="https://linkedin.com/in/rleripio" class="cta-link"><i class="bi bi-linkedin"></i> LinkedIn</a>
-<a href="http://book.rleripio.com" class="cta-link"><i class="bi bi-book"></i> Book</a>
 </div>
 </section>
 
