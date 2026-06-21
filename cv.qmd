@@ -24,7 +24,6 @@ Data, Modeling & Research Engineering
 :::
 
 ::: {.contact}
-<span><i class="fa-solid fa-mobile-screen"></i> +55 (21) 97956-9090</span>
 
 <span><i class="fa-solid fa-envelope"></i> [joao@rleripio.com](mailto:joao@rleripio.com)</span>
 
