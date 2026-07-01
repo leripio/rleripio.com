@@ -3,6 +3,7 @@
   year: 2026
   location: "Montreal/CA"
   lang: en
+  slides: "http://isf2026.rleripio.com"
 
 - title: "Data Science in the Financial Sector"
   event: "FGV/EAESP"
