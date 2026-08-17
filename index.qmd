@@ -40,10 +40,8 @@ body-classes: home
 <div class="profile-block">
   <span class="section-kicker">R for Economic Research (2e)</span>
   <p>
-    The second edition of
-    <a href="http://book.rleripio.com">my book</a>
-    was released in September 2025. It is
-    <a href="http://book.rleripio.com">available online for free</a>
+    The second edition of my book was released in September 2025. 
+    It is <a href="http://book.rleripio.com">available online for free</a>
     and can also be purchased on
     <a href="https://www.amazon.com.br/Economic-Research-Essential-economic-analysis/dp/B0G5YD9HD3">Amazon</a>.
   </p>

@@ -2,14 +2,11 @@
 title: ""
 format:
   html:
-    css: cv_styles.css
+    css: [fonts/fontawesome-local.css, cv_styles.css]
     toc: false
     embed-resources: true
     toc-depth: 2
     page-layout: full
-    include-in-header:
-      text: |
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 execute:
   echo: false
 ---
