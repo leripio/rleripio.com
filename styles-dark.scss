@@ -11,6 +11,10 @@ $navbar-dark-color:        #8993a8;
 $navbar-dark-hover-color:  #22d3ee;
 $navbar-dark-active-color: #22d3ee;
 $navbar-dark-brand-color:  #f1f5f9;
+$navbar-light-color:        #8993a8;
+$navbar-light-hover-color:  #22d3ee;
+$navbar-light-active-color: #22d3ee;
+$navbar-light-brand-color:  #f1f5f9;
 $border-color:             #1f2937;
 
 /*-- scss:rules --*/
@@ -53,16 +57,49 @@ hr { border-color: var(--border); margin: 2rem 0; }
 }
 
 .navbar-brand {
+  color: var(--heading) !important;
   font-size: 0.95rem !important;
   letter-spacing: -0.04em !important;
   font-weight: 700 !important;
 }
 
 .navbar-nav .nav-link {
+  color: var(--text-muted) !important;
   font-size: 0.85rem !important;
   font-weight: 500 !important;
   padding: 0.25rem 0.7rem !important;
   transition: color 0.15s;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link.active {
+  color: var(--accent) !important;
+}
+
+.navbar-nav .nav-link .bi {
+  color: inherit !important;
+}
+
+.quarto-color-scheme-toggle .bi {
+  color: var(--text-muted) !important;
+}
+
+.quarto-color-scheme-toggle:hover .bi {
+  color: var(--accent) !important;
+}
+
+.quarto-color-scheme-toggle .bi::before {
+  background-image: none !important;
+  width: auto !important;
+  height: auto !important;
+  font-family: "bootstrap-icons" !important;
+  font-size: 1rem;
+  line-height: 1;
+  content: "\f495" !important;
+}
+
+.quarto-color-scheme-toggle.alternate .bi::before {
+  content: "\f5a1" !important;
 }
 
 /* ─── Homepage: two-column profile layout ─── */

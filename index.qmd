@@ -15,18 +15,6 @@ body-classes: home
 <a href="https://github.com/leripio" class="cta-link"><i class="bi bi-github"></i> GitHub</a>
 <a href="https://linkedin.com/in/leripiorenato" class="cta-link"><i class="bi bi-linkedin"></i> LinkedIn</a>
 </div>
-<<<<<<< HEAD
-</section>
-
-<section class="about-section">
-<div class="about-inner">
-<img src="images/profile.jpg" class="about-photo" alt="João Leripio">
-<div class="about-text">
-<p>I currently lead the Data Science and Economic Modeling team at <a href="https://www.kapitalo.com.br">Kapitalo</a>, a macro hedge fund in Brazil.</p>
-<p>My work spans the entire research lifecycle, from data collection and modeling to dashboards and analytical tools.</p>
-<p>I'm also the author of <a href="http://book.rleripio.com">R for Economic Research</a>.</p>
-=======
->>>>>>> fe7fb81 (new layout with two columns)
 </div>
 
 <div class="profile-right">
