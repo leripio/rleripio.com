@@ -21,11 +21,19 @@ body-classes: home
 
 <div class="profile-bio">
   <span class="section-kicker">About</span>
+
+  <p>
+    I work at the intersection of statistical modeling, data science,
+    and data engineering, building analytical workflows to support
+    economic research. My interests include forecasting, alternative
+    data, and the application of modern computational tools to
+    real-world problems.
+  </p>
+
   <p>
     I lead the Data Science and Modeling team at
     <a href="https://www.kapitalo.com.br">Kapitalo</a>,
-    a macro hedge fund based in Brazil. My work spans the entire research
-    lifecycle, from data collection and modeling to dashboards and analytical tools.
+    a macro hedge fund based in Brazil.
   </p>
 </div>
 
