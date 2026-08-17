@@ -3,7 +3,8 @@ title: ""
 format:
   html:
     css: cv_styles.css
-    toc: true
+    toc: false
+    embed-resources: true
     toc-depth: 2
     page-layout: full
     include-in-header:

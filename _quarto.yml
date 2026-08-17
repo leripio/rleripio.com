@@ -7,8 +7,6 @@ website:
   description: "Data · Modeling · Research Engineering"
 
   navbar:
-    background: white
-    foreground: dark
     left:
       - href: index.qmd
         text: About
@@ -35,6 +33,8 @@ website:
 
 format:
   html:
-    theme: [flatly, styles.scss]
+    theme:
+      light: [flatly, styles.scss]
+      dark: [darkly, styles-dark.scss]
     toc: false
     page-layout: article

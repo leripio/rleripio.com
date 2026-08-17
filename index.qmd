@@ -4,13 +4,18 @@ body-classes: home
 ---
 
 ```{=html}
-<section class="hero-section">
-<h1 class="hero-name">João R. Leripio</h1>
-<p class="hero-role">Data, Modeling & Research Engineering</p>
-<div class="hero-cta">
+<section class="profile-section">
+<div class="profile-grid">
+
+<div class="profile-left">
+<img src="images/profile.jpg" class="profile-photo" alt="João Leripio">
+<h1 class="profile-name">João R. Leripio</h1>
+<p class="profile-role">Data, Modeling & Research Engineering</p>
+<div class="profile-links">
 <a href="https://github.com/leripio" class="cta-link"><i class="bi bi-github"></i> GitHub</a>
 <a href="https://linkedin.com/in/leripiorenato" class="cta-link"><i class="bi bi-linkedin"></i> LinkedIn</a>
 </div>
+<<<<<<< HEAD
 </section>
 
 <section class="about-section">
@@ -20,7 +25,53 @@ body-classes: home
 <p>I currently lead the Data Science and Economic Modeling team at <a href="https://www.kapitalo.com.br">Kapitalo</a>, a macro hedge fund in Brazil.</p>
 <p>My work spans the entire research lifecycle, from data collection and modeling to dashboards and analytical tools.</p>
 <p>I'm also the author of <a href="http://book.rleripio.com">R for Economic Research</a>.</p>
+=======
+>>>>>>> fe7fb81 (new layout with two columns)
 </div>
+
+<div class="profile-right">
+
+<div class="profile-bio">
+  <span class="section-kicker">About</span>
+  <p>
+    I lead the Data Science and Modeling team at
+    <a href="https://www.kapitalo.com.br">Kapitalo</a>,
+    a macro hedge fund based in Brazil. My work spans the entire research
+    lifecycle, from data collection and modeling to dashboards and analytical tools.
+  </p>
+</div>
+
+<div class="profile-block">
+  <span class="section-kicker">Currently working on...</span>
+  <p>
+    A new book about building data pipelines for applied research.
+    More details coming soon.
+  </p>
+</div>
+
+<div class="profile-block">
+  <span class="section-kicker">R for Economic Research (2e)</span>
+  <p>
+    The second edition of
+    <a href="http://book.rleripio.com">my book</a>
+    was released in September 2025. It is
+    <a href="http://book.rleripio.com">available online for free</a>
+    and can also be purchased on
+    <a href="https://www.amazon.com.br/Economic-Research-Essential-economic-analysis/dp/B0G5YD9HD3">Amazon</a>.
+  </p>
+</div>
+
+<div class="profile-block">
+  <span class="section-kicker">Latest talk</span>
+  <p>
+    <strong>Nowcasting When Predictors Keep Changing</strong>,
+    presented at the 46th International Symposium on Forecasting.
+    <a href="talks.qmd">See all talks ↗</a>
+  </p>
+</div>
+
+</div>
+
 </div>
 </section>
 ```
