@@ -25,7 +25,7 @@ body-classes: home
   <p>
     I work at the intersection of statistical modeling, data science,
     and data engineering, building analytical workflows to support
-    economic research. My interests include forecasting, alternative
+    applied research. My interests include forecasting, alternative
     data, and the application of modern computational tools to
     real-world problems.
   </p>
