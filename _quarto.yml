@@ -3,8 +3,8 @@ project:
   output-dir: _site
 
 website:
-  title: "João Leripio"
-  description: "Data · Modeling · Research Engineering"
+  title: "João R. Leripio"
+  description: "Data, Modeling & Research Engineering"
 
   navbar:
     left:
@@ -17,13 +17,6 @@ website:
         text: Talks
       - href: cv.qmd
         text: CV
-    right:
-      - icon: github
-        href: https://github.com/leripio
-        aria-label: GitHub
-      - icon: linkedin
-        href: https://linkedin.com/in/rleripio
-        aria-label: LinkedIn
 
   page-footer:
     center: "© 2026 João R. Leripio · Built with [Quarto](https://quarto.org)"
