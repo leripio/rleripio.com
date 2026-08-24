@@ -37,9 +37,7 @@ Forecasting, Statistical Modeling & Data Science
 
 ## Profile
 
-Senior data science and modeling professional specializing in forecasting, time series, and applied statistical modeling. Experienced in developing quantitative solutions from complex, high-frequency, alternative, and unstructured data, and in translating analytical results into information for high-stakes decision-making.
-
-Currently leads the Data Science and Modeling team at Kapitalo. Combines methodological depth and technical leadership with the practical engineering capabilities required to build reproducible pipelines, analytical applications, and continuously updated data products.
+Senior data science and modeling professional specializing in forecasting, time series, and complex data. Currently leads the Data Science and Modeling team at Kapitalo, combining hands-on statistical modeling and technical leadership with the development of reliable analytical pipelines and data products.
 
 ## Areas of Expertise
 
