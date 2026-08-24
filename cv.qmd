@@ -4,7 +4,7 @@ format:
   html:
     css: [fonts/fontawesome-local.css, cv_styles.css]
     toc: false
-    embed-resources: true
+    embed-resources: false
     toc-depth: 2
     page-layout: full
 execute:
@@ -18,81 +18,112 @@ execute:
 # João Renato Leripio
 
 ::: {.subtitle}
-Data, Modeling & Research Engineering
+Forecasting, Statistical Modeling & Data Science
 :::
 
 ::: {.contact}
 
 <span><i class="fa-solid fa-envelope"></i> [joao@rleripio.com](mailto:joao@rleripio.com)</span>
 
-<span><i class="fa-brands fa-linkedin"></i>[leripiorenato](https://www.linkedin.com/in/leripiorenato/)</span>
+<span><i class="fa-brands fa-linkedin"></i> [leripiorenato](https://www.linkedin.com/in/leripiorenato/)</span>
 
 <span><i class="fa-brands fa-github"></i> [leripio](https://github.com/leripio)</span>
 
 <span><i class="fa-solid fa-globe"></i> [rleripio.com](https://www.rleripio.com)</span>
+
 :::
 
 :::
 
 ## Profile
 
-Quantitative researcher specializing in statistical modeling, forecasting, data products, and research engineering.
+Senior data science and modeling professional specializing in forecasting, time series, and applied statistical modeling. Experienced in developing quantitative solutions from complex, high-frequency, alternative, and unstructured data, and in translating analytical results into information for high-stakes decision-making.
 
-Experienced in building end-to-end analytical workflows that transform raw data into models, analytical tools, and production-ready research outputs.
+Currently leads the Data Science and Modeling team at Kapitalo. Combines methodological depth and technical leadership with the practical engineering capabilities required to build reproducible pipelines, analytical applications, and continuously updated data products.
+
+## Areas of Expertise
+
+**Modeling:** Forecasting · Statistical Modeling · Machine Learning · State-Space Models · Bayesian Inference
+
+**Data:** Alternative and Unstructured Data · High-Frequency Data · Web Data
+
+**Data Science:** R · SQL · Python · DuckDB · PostgreSQL · APIs · Git · Reproducible Pipelines · Automated Reporting · Dashboards · Web Applications
 
 ## Professional Experience
 
 ::: {.entry}
+
 ::: {.entry-header}
+
 ::: {.entry-title}
+
 ### Kapitalo Investimentos
 
 **Data Science & Economic Modeling Lead**
+
 :::
 
 ::: {.meta}
-São Paulo, Brazil · 2022 - Present
+São Paulo, Brazil · 2022–Present
 :::
+
 :::
-- Lead the Data Science and Modeling team within the Macroeconomic Research department, providing technical leadership and advancing the use of modern data and analytical technologies across research workflows.
-- Develop quantitative models and forecasting systems for macroeconomic analysis.
-- Build and maintain production analytical infrastructure, including data pipelines, automated reporting, and internal research applications.
+
+- Lead the Data Science and Modeling team within Macroeconomic Research, providing technical direction, mentoring analysts, and overseeing the development of quantitative models and analytical products.
+- Design forecasting and nowcasting systems for economic variables using time-series methods, high-frequency indicators, and alternative data.
+- Develop statistical approaches for complex datasets characterized by changing predictors, mixed frequencies, missing observations, and continuously evolving coverage.
+- Transform web, textual, and other unstructured sources into structured indicators and model inputs for research and decision-making.
+- Build and maintain end-to-end analytical workflows, including data collection, databases, model estimation, automated reporting, dashboards, and internal applications.
+- Collaborate with economists and investment professionals to translate open-ended research questions into reliable and interpretable quantitative solutions.
 
 :::
 
 ::: {.entry}
+
 ::: {.entry-header}
+
 ::: {.entry-title}
+
 ### Itaú Asset Management
 
 **Quantitative Research Analyst**
+
 :::
 
 ::: {.meta}
-São Paulo, Brazil · 2019 - 2022
-:::
+São Paulo, Brazil · 2019–2022
 :::
 
-- Developed quantitative models and forecasting tools for macroeconomic and financial analysis.
-- Integrated alternative datasets into investment research workflows.
+:::
+
+- Developed quantitative models, indicators, and forecasting tools for macroeconomic and financial research.
+- Applied time-series and econometric methods to extract signals from noisy, incomplete, and high-frequency data.
+- Communicated model results and analytical findings to economists and investment professionals.
+
 :::
 
 ::: {.entry}
+
 ::: {.entry-header}
+
 ::: {.entry-title}
+
 ### IPEDF
 
 **Economic Research Analyst**
+
 :::
 
 ::: {.meta}
-Brasília, Brazil · 2017 - 2019
-:::
+Brasília, Brazil · 2017–2019
 :::
 
-- Conducted regional economic analysis and monitoring of economic activity indicators.
-- Produced reports and studies supporting public policy discussions and decision-making.
-- Developed statistical indicators and analytical tools for economic assessment.
+:::
+
+- Conducted applied economic research and monitored regional economic activity using official and administrative data.
+- Developed statistical indicators and analytical tools to measure economic conditions and support public-policy discussions.
+- Produced reports and presented quantitative findings to technical and nontechnical audiences.
+
 :::
 
 ## Education
@@ -100,15 +131,16 @@ Brasília, Brazil · 2017 - 2019
 **M.S. in Economics**, Universidade Federal Fluminense · 2017  
 **B.S. in Economics**, Universidade Federal Fluminense · 2013
 
-## Publications
+## Publication
 
-Author of [*R for Economic Research*](http://book.rleripio.com), a practical guide to data analysis, statistical modeling, and forecasting for applied research.
+Author of [*R for Economic Research*](https://book.rleripio.com), a practical guide to data workflows, statistical modeling, time series, and forecasting for applied research. The book has received more than 40,000 views from readers in over 50 countries.
 
 ## Selected Presentations
 
-- **Nowcasting when predictors keep changing. Leveraging cross-sectional information in high-dimensional, high-turnover data** - International Symposium on Forecasting · Montreal · 2026
+- **Nowcasting When Predictors Keep Changing: Leveraging Cross-Sectional Information in High-Dimensional, High-Turnover Data** — International Symposium on Forecasting · Montreal · 2026
 
-- **Nowcasting Inflation in Brazil Using Web Data** - International Symposium on Forecasting · Charlottesville · 2023
+- **Nowcasting Inflation in Brazil Using Web Data** — International Symposium on Forecasting · Charlottesville · 2023
 
-- **Real-time Forecasting COVID-19 Cases Applied to US Regions** - International Symposium on Forecasting · Remote · 2020
+- **Real-Time Forecasting of COVID-19 Cases Across US Regions** — International Symposium on Forecasting · Remote · 2020
+
 :::
