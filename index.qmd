@@ -44,8 +44,7 @@ body-classes: home
 
   <p>
     I specialize in statistical modeling, forecasting, and applied data
-    science, developing analytical solutions for complex, high-frequency,
-    and continuously changing datasets.
+    science.
   </p>
 
   <p>
