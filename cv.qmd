@@ -96,9 +96,6 @@ São Paulo, Brazil · 2019–2022
 - Designed and implemented forecasting models for COVID-19 cases and vaccination coverage, developing modeling approaches for rapidly evolving processes with limited historical data.
 - Developed forecasting models for revenues of publicly listed companies, combining economic and company-level data to support investment research.
 - Built machine learning models using credit-market data to predict corporate bond prices.
-- Applied time-series, econometric, and machine learning methods to noisy, incomplete, and high-frequency datasets.
-- Communicated model results and analytical findings to economists and investment professionals.
-
 
 :::
 
