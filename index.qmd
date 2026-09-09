@@ -50,16 +50,14 @@ body-classes: home
   <p>
     My work focuses on time series, alternative and unstructured data,
     and the design of models and indicators that support real-world
-    decision-making. I also use data engineering and software development
-    practices to turn analytical work into reliable, reproducible pipelines
-    and continuously updated data products.
+    decision-making.
   </p>
-
+  
   <p>
-    I currently lead the Data Science and Modeling team at
-    <a href="https://www.kapitalo.com.br">Kapitalo</a>,
-    a macro hedge fund based in Brazil.
+  I also use data engineering and software development
+    practices to turn analytical work into reliable, reproducible pipelines.
   </p>
+  
 </div>
 
 <div class="profile-block">
