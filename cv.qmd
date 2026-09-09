@@ -37,13 +37,13 @@ Forecasting, Statistical Modeling & Data Science
 
 ## Profile
 
-Senior data science and modeling professional specializing in forecasting, time series, and alternative and unstructured data. Combines hands-on statistical modeling and technical leadership with the development of reliable analytical pipelines and data products for economic and financial research.
+Senior data science and modeling professional specializing in forecasting, time series analysis, and alternative and unstructured data. Combines hands-on statistical modeling and technical leadership with the development of reliable analytical pipelines and data products for economic and financial research.
 
 ## Areas of Expertise
 
-**Modeling:** Forecasting · Econometrics · Machine Learning · State-Space Models · Bayesian Inference
-
 **Data:** Alternative, Unstructured, and High-Frequency Data 
+
+**Modeling:** Econometrics · Machine Learning · State-Space Models · Bayesian Inference
 
 **Delivery:** Data Pipelines · APIs · Data Apps · Automated Reporting
 
