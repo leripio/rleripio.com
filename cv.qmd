@@ -18,7 +18,7 @@ execute:
 # João Renato Leripio
 
 ::: {.subtitle}
-Forecasting, Statistical Modeling & Data Science
+Statistical Modeling, Forecasting & Data Science
 :::
 
 ::: {.contact}

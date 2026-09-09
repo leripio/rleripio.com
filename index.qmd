@@ -17,7 +17,7 @@ body-classes: home
   <h1 class="profile-name">João R. Leripio</h1>
 
   <p class="profile-role">
-    Forecasting, Statistical Modeling & Data Science
+    Statistical Modeling, Forecasting & Data Science
   </p>
 
   <div class="profile-links">
