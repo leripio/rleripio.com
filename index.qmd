@@ -61,6 +61,17 @@ body-classes: home
 </div>
 
 <div class="profile-block">
+  <span class="section-kicker">Currently working on...</span>
+
+  <p>
+    A new book about how analysts can move beyond one-off analyses
+    and build reliable, long-lived analytical projects. The book brings
+    together practical lessons on organizing, automating, and deploying
+    data pipelines and analytical products for applied research.
+  </p>
+</div>
+
+<div class="profile-block">
   <span class="section-kicker">Latest talk</span>
 
   <p>
@@ -84,17 +95,6 @@ body-classes: home
     <a href="https://book.rleripio.com">available online for free</a>
     and can also be purchased on
     <a href="https://www.amazon.com.br/Economic-Research-Essential-economic-analysis/dp/B0G5YD9HD3">Amazon</a>.
-  </p>
-</div>
-
-<div class="profile-block">
-  <span class="section-kicker">Currently working on...</span>
-
-  <p>
-    A new book about how analysts can move beyond one-off analyses
-    and build reliable, long-lived analytical projects. The book brings
-    together practical lessons on organizing, automating, and deploying
-    data pipelines and analytical products for applied research.
   </p>
 </div>
 
