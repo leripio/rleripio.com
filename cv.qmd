@@ -43,7 +43,7 @@ Senior data science and modeling professional specializing in forecasting, time 
 
 ## Areas of Expertise
 
-**Data:** Alternative, Unstructured, and High-Frequency Data 
+**Data:** Time series · Alternative, Unstructured, and High-Frequency Data 
 
 **Modeling:** Econometrics · Machine Learning · State-Space Models · Bayesian Inference
 
