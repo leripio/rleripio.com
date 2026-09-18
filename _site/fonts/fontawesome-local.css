@@ -42,3 +42,4 @@
 .fa-globe::before { content: "\f0ac"; }
 .fa-linkedin::before { content: "\f08c"; }
 .fa-github::before { content: "\f09b"; }
+.fa-location-dot::before { content: "\f3c5"; }

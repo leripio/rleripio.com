@@ -23,6 +23,8 @@ Statistical Modeling, Forecasting & Data Science
 
 ::: {.contact}
 
+<span><i class="fa-solid fa-location-dot"></i>Brazil</span>
+
 <span><i class="fa-solid fa-envelope"></i> [joao@rleripio.com](mailto:joao@rleripio.com)</span>
 
 <span><i class="fa-brands fa-linkedin"></i> [leripiorenato](https://www.linkedin.com/in/leripiorenato/)</span>
@@ -37,7 +39,7 @@ Statistical Modeling, Forecasting & Data Science
 
 ## Profile
 
-Senior data science and modeling professional specializing in forecasting, time series analysis, and alternative and unstructured data. Combines hands-on statistical modeling and technical leadership with the development of reliable analytical pipelines and data products for economic and financial research.
+Senior data science and modeling professional specializing in forecasting, time series analysis, and alternative and unstructured data. Combines hands-on statistical modeling and technical leadership with the development of reliable analytical pipelines and data products for economic and financial research. Author of [*R for Economic Research*](https://book.rleripio.com).
 
 ## Areas of Expertise
 
@@ -45,7 +47,11 @@ Senior data science and modeling professional specializing in forecasting, time 
 
 **Modeling:** Econometrics · Machine Learning · State-Space Models · Bayesian Inference
 
-**Delivery:** Data Pipelines · APIs · Data Apps · Automated Reporting
+**Delivery:** APIs · Data Apps · Automated Reports
+
+**Workflows:** Data Pipelines · LLM Integration
+
+**Tech stack:** R · Python · Shiny · Quarto · DuckDB · PostgreSQL · dbt · Git · Docker · Shell/CLI
 
 ## Professional Experience
 
@@ -70,7 +76,7 @@ São Paulo, Brazil · 2022–Present
 - Lead the Data Science and Modeling team within Macroeconomic Research, providing technical direction and overseeing the development of quantitative models and analytical products.
 - Develop forecasting and nowcasting models for inflation and economic activity using alternative, high-frequency, and unstructured data.
 - Design and implement models to estimate latent economic variables, including potential output and the NAIRU, at scale across dozens of countries.
-- Build end-to-end analytical workflows that operationalize models and research, from data collection and estimation to automated reporting and internal applications.
+- Build end-to-end analytical workflows that operationalize models and research, integrating LLM-assisted tools into the pipeline to process information, support analysis, and generate analytical outputs.
 
 :::
 
@@ -130,7 +136,7 @@ Brasília, Brazil · 2017–2019
 
 ## Publication
 
-Author of [*R for Economic Research*](https://book.rleripio.com), a practical guide to data workflows, statistical modeling, time series, and forecasting for applied research. The book has received more than 50,000 views from readers in over 50 countries.
+Author of [*R for Economic Research*](https://book.rleripio.com), a practical guide to data workflows, statistical modeling, time series, and forecasting for applied research. The book has received more than 55,000 views from readers in over 50 countries.
 
 ## Selected Presentations
 
