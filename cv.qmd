@@ -68,7 +68,7 @@ Senior data science and modeling professional specializing in forecasting, time 
 :::
 
 ::: {.meta}
-São Paulo, Brazil · 2022–2026
+São Paulo, Brazil · Apr/2022 – Sep/2026
 :::
 
 :::
@@ -93,7 +93,7 @@ São Paulo, Brazil · 2022–2026
 :::
 
 ::: {.meta}
-São Paulo, Brazil · 2019–2022
+São Paulo, Brazil · Oct/2019 – Mar/2022
 :::
 
 :::
@@ -116,7 +116,7 @@ São Paulo, Brazil · 2019–2022
 :::
 
 ::: {.meta}
-Brasília, Brazil · 2017–2019
+Brasília, Brazil · Oct/2017 - Sep/2019
 :::
 
 :::
