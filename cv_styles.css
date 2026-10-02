@@ -1,5 +1,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
 
+@media print {
+  /* Hide website navigation, footers, and Quarto extras */
+  header, footer, .navbar, .quarto-github-edit-link, .back-to-top {
+    display: none !important;
+  }
+  
+  /* Reset background and margins for a clean sheet of paper */
+  body {
+    background-color: white !important;
+    color: black !important;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  
+  /* Ensure links look normal and don't append ugly URLs */
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+}
+
 @page {
   size: A4;
   margin: 0.55in;

@@ -39,13 +39,13 @@ Statistical Modeling, Forecasting & Data Science
 
 ## Profile
 
-Senior data science and modeling professional specializing in forecasting, time series analysis, and alternative and unstructured data. Combines hands-on statistical modeling and technical leadership with the development of reliable analytical pipelines and data products for economic and financial research. Author of [*R for Economic Research*](https://book.rleripio.com).
+Senior data science and modeling professional specializing in forecasting, time series analysis, and alternative and unstructured data. Combines hands-on statistical modeling and technical leadership with the development of reliable analytical pipelines to support data-driven decision making. Author of [*R for Economic Research*](https://book.rleripio.com).
 
 ## Areas of Expertise
 
-**Data:** Time series · Alternative, Unstructured, and High-Frequency Data 
+**Modeling:** Forecasting · Econometrics · Machine Learning · State-Space Models · Bayesian Inference
 
-**Modeling:** Econometrics · Machine Learning · State-Space Models · Bayesian Inference
+**Data:** Time series · Alternative, Unstructured, and High-Frequency Data 
 
 **Delivery:** APIs · Data Apps · Automated Reports
 
@@ -74,9 +74,9 @@ São Paulo, Brazil · 2022–Present
 :::
 
 - Lead the Data Science and Modeling team within Macroeconomic Research, providing technical direction and overseeing the development of quantitative models and analytical products.
-- Develop forecasting and nowcasting models for inflation and economic activity using alternative, high-frequency, and unstructured data.
+- Develop and evaluate forecasting and nowcasting models for inflation and economic activity using alternative, high-frequency, and unstructured data.
 - Design and implement models to estimate latent economic variables, including potential output and the NAIRU, at scale across dozens of countries.
-- Build end-to-end analytical workflows that operationalize models and research, integrating LLM-assisted tools into the pipeline to process information, support analysis, and generate analytical outputs.
+- Build end-to-end analytical workflows that operationalize statistical and machine learning models, integrating LLMs and automated data pipelines to deliver scalable analytical outputs.
 
 :::
 
@@ -97,12 +97,10 @@ São Paulo, Brazil · 2019–2022
 :::
 
 :::
-
-- Developed economic activity and inflation indicators using alternative and unstructured data, expanding the information available for macroeconomic analysis.
-- Designed and implemented forecasting models for COVID-19 cases and vaccination coverage, developing modeling approaches for rapidly evolving processes with limited historical data.
 - Developed forecasting models for revenues of publicly listed companies, combining economic and company-level data to support investment research.
 - Built machine learning models using credit-market data to predict corporate bond prices.
-
+- Designed and implemented forecasting models for COVID-19 cases and vaccination coverage, developing modeling approaches for rapidly evolving processes with limited historical data.
+- Developed economic activity and inflation indicators using alternative and unstructured data, expanding the information available for macroeconomic analysis.
 :::
 
 ::: {.entry}
