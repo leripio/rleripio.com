@@ -51,7 +51,7 @@ Senior data science and modeling professional specializing in forecasting, time 
 
 **Workflows:** Data Pipelines · LLM Integration
 
-**Tech stack:** R · Python · Shiny · Quarto · DuckDB · PostgreSQL · dbt · Git · Docker · Shell/CLI
+**Tech stack:** R · Python · Shiny · Quarto · DuckDB · PostgreSQL · dbt · Git · Docker · Shell · CLI Tools
 
 ## Professional Experience
 
