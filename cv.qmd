@@ -18,7 +18,7 @@ execute:
 # João Renato Leripio
 
 ::: {.subtitle}
-Statistical Modeling, Forecasting & Data Science
+Forecasting, Statistical Modeling & Data Science
 :::
 
 ::: {.contact}
@@ -39,7 +39,7 @@ Statistical Modeling, Forecasting & Data Science
 
 ## Profile
 
-Senior data science and modeling professional specializing in forecasting, time series analysis, and alternative and unstructured data. Combines hands-on statistical modeling and technical leadership with the development of reliable analytical pipelines to support data-driven decision making. Author of [*R for Economic Research*](https://book.rleripio.com).
+Senior quantitative professional specializing in forecasting, statistical modeling, and time series analysis. Combines deep quantitative expertise with data science and engineering practices to build reliable analytical pipelines and decision-support solutions. Author of [*R for Economic Research*](https://book.rleripio.com).
 
 ## Areas of Expertise
 

@@ -17,7 +17,7 @@ body-classes: home
   <h1 class="profile-name">João R. Leripio</h1>
 
   <p class="profile-role">
-    Statistical Modeling, Forecasting & Data Science
+    Forecasting, Statistical Modeling & Data Science
   </p>
 
   <div class="profile-links">
@@ -43,7 +43,7 @@ body-classes: home
   <span class="section-kicker">About</span>
 
   <p>
-    I specialize in statistical modeling, forecasting, and applied data
+    I specialize in forecasting, statistical modeling, and applied data
     science.
   </p>
 
@@ -55,7 +55,7 @@ body-classes: home
   
   <p>
   I also use data engineering and software development
-    practices to turn analytical work into reliable, reproducible pipelines.
+    practices to build reliable analytical pipelines and decision-support solutions.
   </p>
   
 </div>
