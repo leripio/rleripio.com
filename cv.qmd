@@ -40,7 +40,7 @@ Forecasting, Statistical Modeling & Data Science
 ## Profile
 
 - I specialize in forecasting and statistical modeling, with a particular focus on time series.
-- My strong background in data science and experience working with alternative, unstructured, and high-dimensional data broaden the range and complexity of quantitative problems I can tackle.
+- My background in economics and data science, together with experience working with alternative, unstructured, and high-dimensional data, broadens the range of quantitative problems I can tackle and the perspectives I bring to them.
 - I combine this expertise with data engineering and software development practices to build reliable analytical pipelines and decision-support solutions.
 - Author of [*R for Economic Research*](https://book.rleripio.com).
 

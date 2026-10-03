@@ -47,7 +47,7 @@ body-classes: home
   </p>
 
   <p>
-  My strong background in data science and experience working with alternative, unstructured, and high-dimensional data broaden the range and complexity of quantitative problems I can tackle.
+  My background in economics and data science, together with experience working with alternative, unstructured, and high-dimensional data, broadens the range of quantitative problems I can tackle and the perspectives I bring to them.
 
   </p>
   I combine this expertise with data engineering and software development practices to build reliable analytical pipelines and decision-support solutions.
