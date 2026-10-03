@@ -39,7 +39,10 @@ Forecasting, Statistical Modeling & Data Science
 
 ## Profile
 
-Senior quantitative professional specializing in forecasting, statistical modeling, and time series analysis. Combines deep quantitative expertise with data science and engineering practices to build reliable analytical pipelines and decision-support solutions. Author of [*R for Economic Research*](https://book.rleripio.com).
+- I specialize in forecasting and statistical modeling, with a particular focus on time series.
+- My strong background in data science and experience working with alternative, unstructured, and high-dimensional data broaden the range and complexity of quantitative problems I can tackle.
+- I combine this expertise with data engineering and software development practices to build reliable analytical pipelines and decision-support solutions.
+- Author of [*R for Economic Research*](https://book.rleripio.com).
 
 ## Areas of Expertise
 
