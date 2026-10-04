@@ -76,10 +76,10 @@ São Paulo, Brazil · Apr/2022 – Sep/2026
 
 :::
 
-- Lead the Data Science and Modeling team within Macroeconomic Research, providing technical direction and overseeing the development of quantitative models and analytical products.
-- Develop and evaluate forecasting and nowcasting models for inflation and economic activity using alternative, high-frequency, and unstructured data.
-- Design and implement models to estimate latent economic variables, including potential output and the NAIRU, at scale across dozens of countries.
-- Build end-to-end analytical workflows that operationalize statistical and machine learning models, integrating LLMs and automated data pipelines to deliver scalable analytical outputs.
+- Led the Data Science and Modeling team within Macroeconomic Research, providing technical direction and overseeing the development of quantitative models and analytical products.
+- Developed and evaluated forecasting and nowcasting models for inflation and economic activity using alternative, high-frequency, and unstructured data.
+- Designed and implemented models to estimate latent economic variables, including potential output and the NAIRU, at scale across dozens of countries.
+- Built end-to-end analytical workflows to operationalize statistical and machine learning models, integrating LLMs and automated data pipelines to deliver scalable analytical outputs.
 
 :::
 
