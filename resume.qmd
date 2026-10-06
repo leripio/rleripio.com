@@ -137,7 +137,7 @@ Brasília, Brazil · Oct/2017 - Sep/2019
 
 ## Publication
 
-Author of [*R for Economic Research*](https://book.rleripio.com), a practical guide to data workflows, statistical modeling, time series, and forecasting for applied research. The book has received more than 55,000 views from readers in over 50 countries.
+Author of *R for Economic Research – Essential Tools for Modern Economic Analysis*, a practical guide to data science, statistical modeling, time series, and forecasting for applied research. The book is freely available online at *book.rleripio.com* and has received more than 56,000 views from readers in over 50 countries since its launch in April 2023.
 
 ## Selected Presentations
 
