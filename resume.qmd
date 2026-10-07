@@ -48,7 +48,7 @@ Forecasting, Statistical Modeling & Data Science
 
 **Modeling:** Forecasting · Econometrics · Machine Learning · State-Space Models · Bayesian Inference
 
-**Data:** Time series · Alternative, Unstructured, and High-Frequency Data 
+**Data:** Time series · Alternative, Unstructured, and High-dimensional Data 
 
 **Delivery:** APIs · Data Apps · Automated Reports
 
