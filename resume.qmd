@@ -23,7 +23,7 @@ Forecasting, Statistical Modeling & Data Science
 
 ::: {.contact}
 
-<span><i class="fa-solid fa-location-dot"></i>Brazil</span>
+<span><i class="fa-solid fa-location-dot"></i>Brazilian</span>
 
 <span><i class="fa-solid fa-envelope"></i> [joao@rleripio.com](mailto:joao@rleripio.com)</span>
 
@@ -76,9 +76,11 @@ São Paulo, Brazil · Apr/2022 – Sep/2026
 
 :::
 
+A leading independent Brazilian hedge fund manager, with approximately US$6 billion in assets under management.
+
 - Led the Data Science and Modeling team within Macroeconomic Research, providing technical direction and overseeing the development of quantitative models and analytical products.
 - Developed and evaluated forecasting and nowcasting models for inflation and economic activity using alternative, high-dimensional, and unstructured data.
-- Designed and implemented models to estimate latent economic variables, including potential output and the NAIRU, at scale across dozens of countries.
+- Designed and implemented models to estimate latent economic variables, including potential output and the NAIRU, across dozens of countries.
 - Built end-to-end analytical workflows to operationalize statistical and machine learning models, integrating LLMs and automated data pipelines to deliver scalable analytical outputs.
 
 :::
@@ -100,6 +102,9 @@ São Paulo, Brazil · Oct/2019 – Mar/2022
 :::
 
 :::
+
+Brazil’s largest private-sector asset manager, with approximately US$240 billion in assets under management.
+
 - Developed forecasting models for revenues of publicly listed companies, combining economic and company-level data to support investment research.
 - Built machine learning models using credit-market data to predict corporate bond prices.
 - Designed and implemented forecasting models for COVID-19 cases and vaccination coverage, developing modeling approaches for rapidly evolving processes with limited historical data.
@@ -124,6 +129,8 @@ Brasília, Brazil · Oct/2017 - Sep/2019
 
 :::
 
+A government research institute providing socioeconomic statistics and policy analysis for Brazil’s Federal District, including Brasília, the national capital.
+
 - Conducted applied economic research and monitored regional economic activity using official and administrative data.
 - Developed statistical indicators and analytical tools to measure economic conditions and support public-policy discussions.
 - Produced reports and presented quantitative findings to technical and nontechnical audiences.
@@ -134,6 +141,13 @@ Brasília, Brazil · Oct/2017 - Sep/2019
 
 **M.S. in Economics**, Universidade Federal Fluminense · 2017  
 **B.S. in Economics**, Universidade Federal Fluminense · 2013
+
+## Languages
+
+- Portuguese: Native speaker
+- English: Professional Working Proficiency (B2) – Strong reading and writing skills with solid verbal communication.
+- French: Intermediate (B1) – Comfortable with everyday conversation, travel, and standard reading.
+- Spanish: Elementary (A2) – Basic understanding and introductory communication.
 
 ## Publication
 
